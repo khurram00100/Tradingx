@@ -1,0 +1,1 @@
+pip install customtkinter SpeechRecognition pyttsx3 pyaudio requests pandas numpy yfinance matplotlib torch scikit-learn
